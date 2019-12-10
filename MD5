@@ -1,7 +1,7 @@
-69514f6679089909959eb699d5a2622b *DESCRIPTION
+0df1a228831d361f1f28a11c7e81e448 *DESCRIPTION
 d6210c08ef581ed8708ef597fecce025 *LICENSE
 b5a89dc93d7cc69ff2f3802e33710104 *NAMESPACE
-fbdfe7838a0729acd6e4514f4e0a8e0c *NEWS.md
+a435e5b938af41d7a16d897a06cd93b2 *NEWS.md
 11fddbe92ec00be1f523bdf6e096b090 *R/aaa.R
 8c70cadfa1cb64e29dccf646b1a01af2 *R/get_classifications.R
 069aa0a82985be84765d24598264e458 *R/get_stopfuncs.R
@@ -12,12 +12,12 @@ d358e7069dcbcbfdb0217c9037b4faa6 *R/ls_fun_calls.R
 d081ca70923294b599c16f4314b3f60b *R/ls_packages.R
 b06eb1deac00e31f428b79cb20f51fb3 *R/read_rfiles.R
 8c053dfeaa6c1512f71bb0a847d5a1d0 *R/tidycode_example.R
-d098df5ec6456cb4a972fcf84a376ce7 *R/unnest_calls.R
-0b85c0f5f1bea0c92844f4a31baf9334 *README.md
+71dd510e48d4023b8db4c4cafc27a18d *R/unnest_calls.R
+971f020ecdca60fea8bc100fbfbeedcf *README.md
 ec02ea1747b44124ec49cfbf4a3b6f8e *build/vignette.rds
-82141b7e3562a1dbe22415ab141f4ee9 *inst/doc/tidycode.R
+c9938bd4b170c59d7e421a9bb54b366a *inst/doc/tidycode.R
 56f8ceddfa510d8d7e3d3fb3a0f8d3c7 *inst/doc/tidycode.Rmd
-16edadc5a0ebbcdb4d3e813f957581e2 *inst/doc/tidycode.html
+cdc2aff57ff04b3c5c2a5464746a0f16 *inst/doc/tidycode.html
 9ac62964a3ee2ea12ce68da1a6ef0b9a *inst/extdata/classification_tbl.csv
 4b4c8541aad73ced48f03017fc7838d4 *inst/extdata/cran_packages.csv
 357b0151e1959bed55faecc7e8c7fb39 *inst/extdata/crowdsource_classification_tbl.csv
